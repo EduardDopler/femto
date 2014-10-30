@@ -1,0 +1,126 @@
+┌─────────────────────┐
+│ INSTALL FILE (v0.1) │
+│ femto blog system   │
+│ version 0.1         │
+└─────────────────────┘
+
+(Note that these steps will be obsolete as soon as the install wizard 
+ is available.)
+
+══════════════════════════════════════════════════════════════════════
+
+femto can be installed easily with 3 steps.
+
+
+▶▶▶ 1) Prepare Database
+Shipped with this file you find the database install script depending
+on your database system. Run it in your database administration tool
+(e.g. mysql-admin, phpmyadmin).
+⚠ Note that the first line tries to create a new database ("femto").
+  You can disable that line by commenting it but remember to adjust
+  the DBNAME setting in the settings file (see below).
+⚠ The last part concerns user privileges. In its default configuration
+  femto uses two different users for accessing the database in viewing
+  mode (your visitors) and editing mode (in the admin panel). These
+  are created and supplied with proper privileges at the script’s end.
+  As many shared hosters deny the creation of users, this commands are
+  disabled. It is recommended to enable them.
+
+
+▶▶▶ 2) Edit Settings
+Most settings can be set in the file .settings/settings.php. Also, 
+this is where you set the database password.
+Please consult the help URL for a detailed description.
+⚠ Feel free to adjust the translations for your language(s). You will
+  find them in the locale directory. English and German are included
+  by default; English is the default language set in the settings.php.
+⚠ Maybe you need to adapt the locale setting to fit your system’s
+  locale.
+⚠ Do not overlook the .htaccess file. You may want to set review the
+  cache control settings.
+⚠ Same thing for robots.txt. You can edit sitemap URL there.
+⚠ If you use nginx instead of Apache, please add the content of
+  nginx.conf to your server directive in your configuration file.
+
+
+▶▶▶ 3) Log into the Admin Panel
+Visit /admin/ and use admin as the temporary username and password to
+login. It is highly recommended to change or replace this account as
+soon as possible.
+You can start blogging now.
+
+
+ Enjoy femto!
+
+ Regards,
+   Eduard Dopler
+
+
+▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
+
+
+German version // Deutsche Installationsanleitung
+
+(Glücklicherweise wird diese Anleitung überflüssig, sobald der Instal-
+lations-Assisent verfügbar ist.)
+
+
+
+══════════════════════════════════════════════════════════════════════
+
+femto ist in 3 einfachen Schritten installiert.
+
+
+▶▶▶ 1) Datenbank einrichten
+Mit dieser Datei wurde das Installationsskript für die Datenbank mit-
+geliefert. Wähle jenes, das zu deinem Datenbanksystem passt und lass
+es in deinem Datenbank-Administrations-Tool laufen (z.B. mysql-admin
+oder phpmyadmin).
+⚠ Beachte, dass die erste Zeile versucht, eine neue Datenbank
+  ("femto") anzulegen. Sollte dir das nicht möglich oder erwünscht
+  sein, kannst du die Zeile einfach auskommentieren. Vergiss dann aber
+  nicht, die DBNAME Einstellung anzupassen (s. unten).
+⚠ Der letzte Teil des SQL-Skripts betrifft das Anlegen von Nutzern und
+  Nutzerrechte. femto versucht standardmäßig sicherheitshalber zwei
+  verschiedene Nutzer beim Zugriff auf die Datenbank zu verwenden, je
+  nachdem, ob ein Adminstrator Beiträge löscht oder ein Besucher einen
+  Beitrag liest. Diese Nutzer und Rechte werden am Ende des Skripts
+  angelegt. Da viele (vor allem Shared-) Hoster diese Einstellung
+  blockieren, ist sie auskommentiert. Falls möglich, solltest du diese
+  zusätzlich Sicherheitsbarriere nutzen und die Zeilen aktivieren.
+
+
+▶▶▶ 2) Einstellungen ändern
+Die meisten sinnvollen Einstellungen lassen sich schnell in der Datei
+.settings/settings.php ändern.
+Hier kannst du auch den Datenbank-Zugriff einstellen.
+Weitere Informationen findest du in der Online-Hilfe.
+⚠ Die Übersetzungen können nach Belieben angepasst werden. Sie be-
+  finden sich im locale Ordner. Englisch und Deutsch wird standard-
+  mäßig mitgeliefert; Englisch ist in der settings.php als Standard-
+  sprache eingestellt.
+⚠ Eventuell ist eine Anpassung der locale Variablen an dein System er-
+  forderlich. Informier dich in dem Fall darüber, welche locales dein
+  System unterstützt und benenne den Variablenwert und den ent-
+  sprechenden Ordner dementsprechend um.
+⚠ Die .htaccess Datei ist zwar leicht zu übersehen, beinhaltet aber
+  z.B. auch die Cache-Einstellungen, auf die du vielleicht einen Blick
+  werfen möchtest.
+⚠ Selbes gilt für die robots.txt. Dort solltest du die Sitemap-URL
+  anpassen.
+⚠ Wenn du nginx als Server verwendest, müssen noch die rewrite rules
+  in deine Server Direktive eingefügt werden.
+
+
+▶▶▶ 3) Ins Admin Panel einloggen
+Besuche /admin/ und logge dich mit dem temporären Nutzer admin ein
+Das Passwort ist auch admin. Wie man sieht, ist es dringend empfohlen,
+das Passwort schnellstens zu ändern oder gleich den ganzen Nutzer zu
+ersetzen.
+Und schon kann’s losgehen!
+
+
+ Viel Spaß mit femto!
+
+ Gruß,
+   Eduard Dopler

@@ -1,0 +1,47 @@
+# Compression
+<IfModule mod_deflate.c>
+	SetOutputFilter DEFLATE
+	SetEnvIfNoCase Request_URI \.(?:gif|jpe?g|png)$ no-gzip
+</IfModule>
+
+
+# Cache Control
+<IfModule mod_expires.c>
+	ExpiresActive On
+	ExpiresDefault "access plus 1 minute"
+	ExpiresByType text/html "access plus 1 minute"
+	ExpiresByType image/gif "access plus 3 month"
+	ExpiresByType image/png "access plus 3 month"
+	ExpiresByType image/jpg "access plus 3 month"
+	ExpiresByType image/jpeg "access plus 3 month"
+	ExpiresByType text/css "access plus 3 month"
+	ExpiresByType application/x-javascript "access plus 3 month"
+	ExpiresByType application/javascript "access plus 3 month"
+	FileETag none
+</IfModule>
+
+
+# 404
+ErrorDocument 404 /error_404.php
+
+
+<IfModule mod_rewrite.c>
+	RewriteEngine on
+	RewriteBase /
+
+	# direct post request, with or without language
+	RewriteRule ^(([a-z]{2})/)?([0-9]+)/?(.*)$ /index.php?l=$2&pid=$3 [L]
+	# other request, e.g. /en/downloads/?file=abc -> /downloads/?l=en&file=abc
+	RewriteRule ^([a-z]{2})/(.*)$ /$2?l=$1 [QSA]
+	# home page, with language
+	RewriteRule ^([a-z]{2})/?$ /index.php?l=$1 [QSA]
+
+	# favicons
+	RewriteRule ^favicon.png$ /favicon-196-precomposed.png [L]
+	# (if you want to use your own favicon, remove the following line)
+	RewriteRule ^favicon-feed.png$ /favicon-196-precomposed.png [L]
+
+	# rewrite some links for compatibility and convenience
+	RewriteRule ^about/?$ /impressum.php [L]
+	RewriteRule ^sitemap/?$ /sitemap.php [L]
+</IfModule>

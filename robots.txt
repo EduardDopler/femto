@@ -1,0 +1,5 @@
+sitemap: http://example.com/sitemap.xml
+
+User-agent: *
+Disallow: /admin/
+Disallow: /locale/

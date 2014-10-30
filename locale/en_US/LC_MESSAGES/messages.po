@@ -1,0 +1,1134 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: femto\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-10-19 19:49+0100\n"
+"PO-Revision-Date: 2014-10-19 19:50+0100\n"
+"Last-Translator: Eduard Dopler <kontakt@eduard-dopler.de>\n"
+"Language-Team: femto <kontakt@eduard-dopler.de>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: /home/eddie/Desktop/femto_public/\n"
+"X-Poedit-SearchPath-0: /home/eddie/Desktop/femto_public\n"
+
+#: /home/eddie/Desktop/femto_public/sitemap.php:24
+#: /home/eddie/Desktop/femto_public/sitemap.php:32
+#: /home/eddie/Desktop/femto_public/functions.php:146
+#: /home/eddie/Desktop/femto_public/functions.php:275
+#: /home/eddie/Desktop/femto_public/functions.php:302
+#: /home/eddie/Desktop/femto_public/functions.php:308
+#: /home/eddie/Desktop/femto_public/functions.php:341
+#: /home/eddie/Desktop/femto_public/functions.php:367
+#: /home/eddie/Desktop/femto_public/functions.php:375
+#: /home/eddie/Desktop/femto_public/functions.php:380
+#: /home/eddie/Desktop/femto_public/functions.php:435
+#: /home/eddie/Desktop/femto_public/functions.php:473
+#: /home/eddie/Desktop/femto_public/functions.php:503
+#: /home/eddie/Desktop/femto_public/functions.php:562
+#: /home/eddie/Desktop/femto_public/functions.php:588
+#: /home/eddie/Desktop/femto_public/functions.php:665
+#: /home/eddie/Desktop/femto_public/functions.php:694
+#: /home/eddie/Desktop/femto_public/functions.php:721
+#: /home/eddie/Desktop/femto_public/functions.php:746
+#: /home/eddie/Desktop/femto_public/impressum.php:37
+#: /home/eddie/Desktop/femto_public/comments.php:130
+#: /home/eddie/Desktop/femto_public/admin/adm_functions.php:34
+#: /home/eddie/Desktop/femto_public/admin/adm_functions.php:36
+#: /home/eddie/Desktop/femto_public/admin/adm_functions.php:97
+msgid "lang"
+msgstr "en"
+
+#: /home/eddie/Desktop/femto_public/sitemap.php:29
+#: /home/eddie/Desktop/femto_public/functions.php:373
+msgid "sitemap"
+msgstr "Sitemap"
+
+#: /home/eddie/Desktop/femto_public/sitemap.php:31
+msgid "home_blog_overview"
+msgstr "Homepage/Blog overview"
+
+#: /home/eddie/Desktop/femto_public/sitemap.php:35
+#: /home/eddie/Desktop/femto_public/functions.php:282
+#: /home/eddie/Desktop/femto_public/functions.php:292
+#: /home/eddie/Desktop/femto_public/admin/adm_functions.php:83
+msgid "other_lang"
+msgstr "de"
+
+#: /home/eddie/Desktop/femto_public/sitemap.php:35
+#: /home/eddie/Desktop/femto_public/functions.php:347
+#: /home/eddie/Desktop/femto_public/admin/adm_functions.php:93
+msgid "other_lang_long"
+msgstr "German"
+
+#: /home/eddie/Desktop/femto_public/sitemap.php:36
+#: /home/eddie/Desktop/femto_public/functions.php:351
+#: /home/eddie/Desktop/femto_public/search.php:22
+msgid "search"
+msgstr "Search"
+
+#: /home/eddie/Desktop/femto_public/sitemap.php:37
+#: /home/eddie/Desktop/femto_public/functions.php:374
+#: /home/eddie/Desktop/femto_public/impressum.php:27
+msgid "impressum"
+msgstr "About/Contact"
+
+#: /home/eddie/Desktop/femto_public/sitemap.php:38
+#: /home/eddie/Desktop/femto_public/admin/adm_functions.php:58
+#: /home/eddie/Desktop/femto_public/admin/adm_posts.php:28
+msgid "posts"
+msgstr "Posts"
+
+#: /home/eddie/Desktop/femto_public/functions.php:76
+msgid "time_fmt"
+msgstr "h:i a"
+
+#: /home/eddie/Desktop/femto_public/functions.php:81
+msgid "date_fmt"
+msgstr "d M, Y"
+
+#: /home/eddie/Desktop/femto_public/functions.php:86
+msgid "datetime_fmt"
+msgstr "d M, Y h:i a"
+
+#: /home/eddie/Desktop/femto_public/functions.php:372
+msgid "footer_copyright"
+msgstr ""
+"All content, if not differently marked, is pub­lished under the <a href="
+"\"http://creativecommons.org/licenses/by/4.0/deed.en\">Creative Commons-"
+"Lizenz (cc-by)</a>."
+
+#: /home/eddie/Desktop/femto_public/functions.php:381
+msgid "loading"
+msgstr "Wait a sec, loading..."
+
+#: /home/eddie/Desktop/femto_public/functions.php:382
+msgid "form_email"
+msgstr "Email (not published)"
+
+#: /home/eddie/Desktop/femto_public/functions.php:383
+msgid "form_url"
+msgstr "Homepage (optional)"
+
+#: /home/eddie/Desktop/femto_public/functions.php:384
+msgid "form_comment"
+msgstr "Comment... (code tag allowed)"
+
+#: /home/eddie/Desktop/femto_public/functions.php:414
+msgid "morebutton_older_posts"
+msgstr "Older posts"
+
+#: /home/eddie/Desktop/femto_public/functions.php:471
+#: /home/eddie/Desktop/femto_public/functions.php:574
+#: /home/eddie/Desktop/femto_public/admin/adm_comment_edit.php:28
+#: /home/eddie/Desktop/femto_public/admin/adm_comment_update.php:28
+msgid "comment"
+msgid_plural "comments"
+msgstr[0] "comment"
+msgstr[1] "comments"
+
+#: /home/eddie/Desktop/femto_public/functions.php:496
+#: /home/eddie/Desktop/femto_public/admin/adm_comments.php:28
+#: /home/eddie/Desktop/femto_public/admin/adm_functions.php:60
+#: /home/eddie/Desktop/femto_public/admin/adm_posts.php:80
+msgid "comments"
+msgstr "Comments"
+
+#: /home/eddie/Desktop/femto_public/functions.php:511
+msgid "com_so_far"
+msgstr "So far..."
+
+#: /home/eddie/Desktop/femto_public/functions.php:514
+msgid "com_no_comments"
+msgstr "...no comments"
+
+#: /home/eddie/Desktop/femto_public/functions.php:536
+msgid "com_not_approved"
+msgstr "[not yet approved]"
+
+#: /home/eddie/Desktop/femto_public/functions.php:544
+msgid "com_says"
+msgstr "says:"
+
+#: /home/eddie/Desktop/femto_public/functions.php:564
+msgid "com_your_comment"
+msgstr "Your comment"
+
+#: /home/eddie/Desktop/femto_public/functions.php:566
+msgid "com_name"
+msgstr "Name"
+
+#: /home/eddie/Desktop/femto_public/functions.php:567
+msgid "com_email"
+msgstr "Email"
+
+#: /home/eddie/Desktop/femto_public/functions.php:568
+msgid "com_homepage"
+msgstr "Homepage"
+
+#: /home/eddie/Desktop/femto_public/functions.php:569
+msgid "com_activate_javascript"
+msgstr "Please activate JavaScript"
+
+#: /home/eddie/Desktop/femto_public/functions.php:573
+msgid "com_leave_empty"
+msgstr "leave empty"
+
+#: /home/eddie/Desktop/femto_public/functions.php:575
+msgid "com_submit"
+msgstr "send"
+
+#: /home/eddie/Desktop/femto_public/functions.php:590
+msgid "lang_code"
+msgstr "en_US"
+
+#: /home/eddie/Desktop/femto_public/functions.php:591
+msgid "flattr_me"
+msgstr "Flattr this!"
+
+#: /home/eddie/Desktop/femto_public/functions.php:689
+msgid "latest_posts"
+msgstr "More?"
+
+#: /home/eddie/Desktop/femto_public/functions.php:825
+msgid "db_error"
+msgstr ""
+"Sorry, something went wrong...\n"
+"The database stumbled. Let me clean that up and you try again later, okay?"
+
+#: /home/eddie/Desktop/femto_public/functions.php:838
+msgid "article_404"
+msgstr ""
+"  <article>\n"
+"    <h3>404</h3>\n"
+"    <p><strong>No article found with this ID.</strong></p>\n"
+"    <p>Please try the <a href=\"/search.php\">search</a> or visit the <a "
+"href=\"/\">Homepage</a>.</p>\n"
+"  </article>"
+
+#: /home/eddie/Desktop/femto_public/impressum.php:34
+msgid "impressum_text"
+msgstr "    <p>Your About Me/Contact page.</p>"
+
+#: /home/eddie/Desktop/femto_public/search.php:23
+msgid "search_intro"
+msgstr ""
+"Looking for something? This blog uses %search_engine% as its search engine. "
+"I bet you will find it."
+
+#: /home/eddie/Desktop/femto_public/search.php:27
+msgid "search_term"
+msgstr "search term"
+
+#: /home/eddie/Desktop/femto_public/raw.php:39
+msgid "the_end"
+msgstr "The End."
+
+#: /home/eddie/Desktop/femto_public/comments.php:232
+msgid "comment_result_spam"
+msgstr ""
+"    <h3>Spam?!</h3>\n"
+"    <p>The spam system caught your comment. <br>\n"
+"    Please check if JavaScript is activated and you solved the math exercise "
+"in the comment field. Try again.</p>"
+
+#: /home/eddie/Desktop/femto_public/comments.php:235
+msgid "comment_result_format"
+msgstr ""
+"    <h3>Attention!</h3>\n"
+"    <p>Your comment was <em>not</em> saved, because not all mandatory fields "
+"were filled out properly.</p>\n"
+"    <ul>\n"
+"      <li>Does your name contain at least 2 characters?</li>\n"
+"      <li>Is your Email address correct?</li>\n"
+"      <li>Have you entered a comment anyway?</li>\n"
+"    </ul>\n"
+"    <p>Try again.</p>"
+
+#: /home/eddie/Desktop/femto_public/comments.php:238
+msgid "comment_result_internal_error"
+msgstr ""
+"    <h3>Internal Error</h3>\n"
+"    <p>It seems that our server stumbled upon something. Anyway, your "
+"comment could <em>not</em> be saved.<br>\n"
+"    Maybe you try again later. Sorry!</p>"
+
+#: /home/eddie/Desktop/femto_public/comments.php:241
+msgid "comment_result_saved"
+msgstr ""
+"    <h3>Saved, in verifying queue.</h3>\n"
+"    <p>Your comment was saved and waits for approval.</p>"
+
+#: /home/eddie/Desktop/femto_public/comments.php:248
+msgid "back_to_comment"
+msgstr "See where your comment will live"
+
+#: /home/eddie/Desktop/femto_public/comments.php:250
+msgid "click_back_button"
+msgstr "    <p>Hit the back button of your browser.</p>"
+
+#: /home/eddie/Desktop/femto_public/downloads/index.php:23
+msgid "downloads_scripts"
+msgstr "Downloads/Scripts"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_comments.php:62
+msgid "all_unapproved_comments"
+msgstr "all unapproved comments"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_comments.php:63
+msgid "last_20_comments"
+msgstr "last 20 comments"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_comments.php:64
+msgid "belonging_to_my_posts"
+msgstr "comments to my posts"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_comments.php:74
+msgid "select"
+msgstr "select"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_comments.php:138
+#: /home/eddie/Desktop/femto_public/admin/adm_comments.php:187
+msgid "approve"
+msgstr "approve"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_comments.php:139
+#: /home/eddie/Desktop/femto_public/admin/adm_comments.php:188
+#: /home/eddie/Desktop/femto_public/admin/adm_comment_edit.php:159
+#: /home/eddie/Desktop/femto_public/admin/adm_post_edit.php:146
+msgid "edit"
+msgstr "edit"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_comments.php:140
+#: /home/eddie/Desktop/femto_public/admin/adm_comments.php:189
+#: /home/eddie/Desktop/femto_public/admin/adm_authors.php:63
+#: /home/eddie/Desktop/femto_public/admin/adm_authors.php:90
+msgid "delete"
+msgstr "delete"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_comments.php:147
+#: /home/eddie/Desktop/femto_public/admin/adm_comment_edit.php:146
+#: /home/eddie/Desktop/femto_public/admin/adm_authors.php:69
+#: /home/eddie/Desktop/femto_public/admin/adm_authors.php:129
+msgid "field_name"
+msgstr "Name"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_comments.php:148
+#: /home/eddie/Desktop/femto_public/admin/adm_comment_edit.php:147
+msgid "field_email"
+msgstr "Email"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_comments.php:149
+#: /home/eddie/Desktop/femto_public/admin/adm_comment_edit.php:145
+#: /home/eddie/Desktop/femto_public/admin/adm_posts.php:76
+#: /home/eddie/Desktop/femto_public/admin/adm_post_edit.php:111
+#: /home/eddie/Desktop/femto_public/admin/adm_post_new.php:141
+msgid "field_created"
+msgstr "Created"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_comments.php:150
+#: /home/eddie/Desktop/femto_public/admin/adm_comment_edit.php:154
+#: /home/eddie/Desktop/femto_public/admin/adm_post_edit.php:140
+#: /home/eddie/Desktop/femto_public/admin/adm_post_new.php:169
+msgid "field_content"
+msgstr "Content"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_comments.php:151
+msgid "field_approved_short"
+msgstr "appr"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_comments.php:176
+#: /home/eddie/Desktop/femto_public/admin/adm_posts.php:105
+msgid "edit_desc"
+msgstr "Edit this row"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_comments.php:176
+#: /home/eddie/Desktop/femto_public/admin/adm_posts.php:105
+msgid "edit_short"
+msgstr "edit"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_comment_edit.php:112
+msgid "result_comment_edit"
+msgstr ""
+"Action %action% successfully performed on %numSuccess%/%numAll% comments."
+
+#: /home/eddie/Desktop/femto_public/admin/adm_comment_edit.php:134
+msgid "edit_comment"
+msgstr "Edit Comment"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_comment_edit.php:142
+#: /home/eddie/Desktop/femto_public/admin/adm_post_edit.php:104
+msgid "do_not_change"
+msgstr "Do not change! Update will not affect desired ID otherwise."
+
+#: /home/eddie/Desktop/femto_public/admin/adm_comment_edit.php:142
+msgid "field_commentid"
+msgstr "Comment ID"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_comment_edit.php:143
+#: /home/eddie/Desktop/femto_public/admin/adm_comment_edit.php:144
+#: /home/eddie/Desktop/femto_public/admin/adm_post_edit.php:105
+#: /home/eddie/Desktop/femto_public/admin/adm_post_edit.php:139
+msgid "changes_not_recommended"
+msgstr ""
+"Changes here are not recommened but possible by clicking on this form field."
+
+#: /home/eddie/Desktop/femto_public/admin/adm_comment_edit.php:143
+#: /home/eddie/Desktop/femto_public/admin/adm_post_edit.php:104
+#: /home/eddie/Desktop/femto_public/admin/adm_post_new.php:134
+msgid "field_postid"
+msgstr "Post ID"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_comment_edit.php:144
+#: /home/eddie/Desktop/femto_public/admin/adm_post_edit.php:105
+#: /home/eddie/Desktop/femto_public/admin/adm_post_new.php:135
+msgid "field_language"
+msgstr "Language"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_comment_edit.php:148
+msgid "field_url"
+msgstr "URL"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_comment_edit.php:151
+msgid "true"
+msgstr "true"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_comment_edit.php:152
+msgid "false"
+msgstr "false"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_comment_edit.php:153
+msgid "field_approved"
+msgstr "Approved"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_comment_edit.php:159
+msgid "edit_all"
+msgstr "edit all"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_functions.php:51
+#: /home/eddie/Desktop/femto_public/admin/adm_functions.php:128
+msgid "logged_in"
+msgstr "Logged In"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_functions.php:59
+#: /home/eddie/Desktop/femto_public/admin/adm_post_new.php:131
+msgid "new_post"
+msgstr "New Post"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_functions.php:61
+#: /home/eddie/Desktop/femto_public/admin/adm_author_block.php:43
+#: /home/eddie/Desktop/femto_public/admin/adm_authors.php:28
+#: /home/eddie/Desktop/femto_public/admin/adm_author_pwchange.php:46
+#: /home/eddie/Desktop/femto_public/admin/adm_author_delete.php:37
+#: /home/eddie/Desktop/femto_public/admin/adm_author_rename.php:47
+#: /home/eddie/Desktop/femto_public/admin/adm_author_pwreset.php:47
+#: /home/eddie/Desktop/femto_public/admin/adm_author_new.php:36
+msgid "authors"
+msgstr "Authors"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_functions.php:62
+msgid "logout"
+msgstr "Logout"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_functions.php:89
+#: /home/eddie/Desktop/femto_public/admin/adm_authors.php:102
+msgid "accesslevel_"
+msgstr "access level"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_functions.php:89
+msgid "logged_in_as"
+msgstr "Logged in as %username% (%accesslevel%)."
+
+#: /home/eddie/Desktop/femto_public/admin/adm_functions.php:102
+msgid "confirmLeave"
+msgstr "Changes not saved yet!"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_functions.php:103
+msgid "confirm_delete_rows"
+msgstr "Delete %count% row(s). Process?"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_functions.php:104
+msgid "confirm_delete_post"
+msgstr "Delete this post and all its comments?"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_functions.php:105
+msgid "confirm_delete_author"
+msgstr ""
+"Delete author permanently?\n"
+"\n"
+"(Will fail if author still has posts.)"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_functions.php:106
+msgid "confirm_reset_pw"
+msgstr ""
+"Reset this password?\n"
+"It will be replaced by a random one which will be displayed afterwards."
+
+#: /home/eddie/Desktop/femto_public/admin/adm_functions.php:107
+msgid "confirm_block_author"
+msgstr "Change blocking for this user?"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_functions.php:108
+msgid "enable_field"
+msgstr ""
+"Editting this field may lead to corruption of your blog and database.\n"
+"Handle with care."
+
+#: /home/eddie/Desktop/femto_public/admin/adm_functions.php:109
+#: /home/eddie/Desktop/femto_public/admin/adm_author_new.php:47
+msgid "latin_chars_only"
+msgstr "The username may only consists of latin chars (A-Z, a-z, 0-9)."
+
+#: /home/eddie/Desktop/femto_public/admin/adm_functions.php:110
+msgid "update_checking"
+msgstr "Searching for updates..."
+
+#: /home/eddie/Desktop/femto_public/admin/adm_functions.php:111
+msgid "update_available"
+msgstr "<em style=\"color:red\">Updates available, please update.</em>"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_functions.php:112
+msgid "update_available_critical"
+msgstr ""
+"<strong style=\"color:red\">Critical updates found!</strong> Please update!"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_functions.php:113
+msgid "no_update_available"
+msgstr "No updates."
+
+#: /home/eddie/Desktop/femto_public/admin/adm_functions.php:130
+msgid "hello"
+msgstr "Hello"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_functions.php:134
+#: /home/eddie/Desktop/femto_public/admin/adm_authors.php:72
+msgid "field_lastlogin"
+msgstr "Last Login"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_functions.php:479
+#: /home/eddie/Desktop/femto_public/admin/adm_functions.php:541
+msgid "fopen_error"
+msgstr ""
+"Error while opening file. Make sure your server has write permissions on it."
+
+#: /home/eddie/Desktop/femto_public/admin/adm_functions.php:611
+#: /home/eddie/Desktop/femto_public/admin/adm_functions.php:613
+msgid "access_violation"
+msgstr "Access violation"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_functions.php:616
+msgid "sorry_not_allowed"
+msgstr "Sorry, not allowed."
+
+#: /home/eddie/Desktop/femto_public/admin/adm_functions.php:618
+msgid "back"
+msgstr "back"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_author_block.php:50
+msgid "blockauthor_success"
+msgstr "Changed blocking settings for this user."
+
+#: /home/eddie/Desktop/femto_public/admin/adm_author_block.php:51
+msgid "blockauthor_desc"
+msgstr "This will only apply to the login procedure."
+
+#: /home/eddie/Desktop/femto_public/admin/adm_author_block.php:53
+msgid "blockauthor_failed"
+msgstr "Blocking settings NOT changed."
+
+#: /home/eddie/Desktop/femto_public/admin/adm_author_block.php:54
+#: /home/eddie/Desktop/femto_public/admin/adm_author_pwchange.php:79
+#: /home/eddie/Desktop/femto_public/admin/adm_author_delete.php:66
+#: /home/eddie/Desktop/femto_public/admin/adm_post_new.php:122
+#: /home/eddie/Desktop/femto_public/admin/adm_author_rename.php:60
+#: /home/eddie/Desktop/femto_public/admin/adm_post_update.php:87
+#: /home/eddie/Desktop/femto_public/admin/adm_author_pwreset.php:59
+#: /home/eddie/Desktop/femto_public/admin/adm_author_new.php:102
+msgid "db_error_on_write"
+msgstr ""
+"The data could not be written to the database.<br>\n"
+"    Please check the format of your data or whether the database prints any "
+"useful information. Maybe this an access violation though."
+
+#: /home/eddie/Desktop/femto_public/admin/adm_posts.php:32
+#: /home/eddie/Desktop/femto_public/admin/adm_post_new.php:114
+#: /home/eddie/Desktop/femto_public/admin/adm_post_update.php:84
+msgid "update_feed_sitemap_desc"
+msgstr "Update the feed/ATOM file and sitemap.xml after changes on posts"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_posts.php:32
+#: /home/eddie/Desktop/femto_public/admin/adm_post_new.php:114
+#: /home/eddie/Desktop/femto_public/admin/adm_update_feedsitemap.php:87
+#: /home/eddie/Desktop/femto_public/admin/adm_post_update.php:84
+msgid "update_feed_sitemap"
+msgstr "Update feed and sitemap.xml"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_posts.php:75
+#: /home/eddie/Desktop/femto_public/admin/adm_post_edit.php:110
+#: /home/eddie/Desktop/femto_public/admin/adm_post_new.php:140
+msgid "field_visibility"
+msgstr "Visibility"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_posts.php:77
+msgid "field_lang"
+msgstr "Lang"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_posts.php:78
+#: /home/eddie/Desktop/femto_public/admin/adm_post_edit.php:113
+#: /home/eddie/Desktop/femto_public/admin/adm_post_new.php:143
+msgid "field_title"
+msgstr "Title"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_posts.php:102
+#: /home/eddie/Desktop/femto_public/admin/adm_post_edit.php:112
+#: /home/eddie/Desktop/femto_public/admin/adm_post_new.php:142
+msgid "field_modified"
+msgstr "Modified"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_posts.php:106
+msgid "show_its_comments"
+msgstr "show corresponding comments"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_authors.php:63
+#: /home/eddie/Desktop/femto_public/admin/adm_authors.php:93
+msgid "block"
+msgstr "block"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_authors.php:68
+#: /home/eddie/Desktop/femto_public/admin/adm_authors.php:128
+msgid "field_username"
+msgstr "Username"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_authors.php:70
+msgid "field_registered"
+msgstr "Registered"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_authors.php:71
+#: /home/eddie/Desktop/femto_public/admin/adm_authors.php:134
+#: /home/eddie/Desktop/femto_public/admin/adm_authors.php:139
+msgid "field_accesslevel"
+msgstr "Access Level"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_authors.php:73
+msgid "field_password"
+msgstr "Password"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_authors.php:84
+#: /home/eddie/Desktop/femto_public/admin/adm_author_rename.php:68
+msgid "rename"
+msgstr "rename"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_authors.php:86
+msgid "change_pw"
+msgstr "change"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_authors.php:88
+msgid "reset_pw"
+msgstr "reset"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_authors.php:93
+msgid "unblock"
+msgstr "unblock"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_authors.php:125
+msgid "new_author"
+msgstr "New Author"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_authors.php:131
+#: /home/eddie/Desktop/femto_public/admin/adm_authors.php:140
+msgid "accesslevel_1"
+msgstr "Administrator"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_authors.php:132
+#: /home/eddie/Desktop/femto_public/admin/adm_authors.php:141
+msgid "accesslevel_2"
+msgstr "Moderator"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_authors.php:133
+#: /home/eddie/Desktop/femto_public/admin/adm_authors.php:142
+msgid "accesslevel_3"
+msgstr "Author"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_authors.php:135
+#: /home/eddie/Desktop/femto_public/admin/adm_post_new.php:175
+msgid "create"
+msgstr "create"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_authors.php:140
+msgid "accesslevel_1_desc"
+msgstr "all privileges"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_authors.php:141
+msgid "accesslevel_2_desc"
+msgstr "all privileges without altering admin’s password"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_authors.php:142
+msgid "accesslevel_3_desc"
+msgstr ""
+"write articles, edit own articles and corresponding comments (no delete "
+"privileges)"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_author_pwchange.php:54
+msgid "pwchange_too_short"
+msgstr "New password too short (min. %num% chars)."
+
+#: /home/eddie/Desktop/femto_public/admin/adm_author_pwchange.php:61
+msgid "pwchange_not_equal"
+msgstr "Passwords are not equal."
+
+#: /home/eddie/Desktop/femto_public/admin/adm_author_pwchange.php:70
+msgid "pwchange_old_wrong"
+msgstr "Current password is not correct."
+
+#: /home/eddie/Desktop/femto_public/admin/adm_author_pwchange.php:76
+msgid "pwchange_success"
+msgstr "Password changed."
+
+#: /home/eddie/Desktop/femto_public/admin/adm_author_pwchange.php:78
+msgid "pwchange_failed"
+msgstr "Password NOT changed."
+
+#: /home/eddie/Desktop/femto_public/admin/adm_author_pwchange.php:85
+msgid "pwchange"
+msgstr "Change password"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_author_pwchange.php:89
+msgid "field_oldpass"
+msgstr "current password"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_author_pwchange.php:90
+msgid "field_newpass1"
+msgstr "new password"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_author_pwchange.php:91
+msgid "field_newpass2"
+msgstr "new password (repeat)"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_author_pwchange.php:92
+#: /home/eddie/Desktop/femto_public/admin/adm_author_rename.php:73
+msgid "change"
+msgstr "change"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_author_delete.php:41
+msgid "deleteauthor_not_yourself"
+msgstr ""
+"Administrators cannot delete themselves in order to always keep one left at "
+"the system. You could contact another one, if possible."
+
+#: /home/eddie/Desktop/femto_public/admin/adm_author_delete.php:61
+msgid "author_deleted"
+msgstr "Author deleted."
+
+#: /home/eddie/Desktop/femto_public/admin/adm_author_delete.php:65
+msgid "author_not_deleted"
+msgstr "Author NOT deleted."
+
+#: /home/eddie/Desktop/femto_public/admin/adm_author_delete.php:74
+msgid "delauthor_failed_has_posts"
+msgstr "Author was not deleted because their are still posts referenced."
+
+#: /home/eddie/Desktop/femto_public/admin/index.php:50
+msgid "login_failed"
+msgstr "Login failed"
+
+#: /home/eddie/Desktop/femto_public/admin/index.php:51
+msgid "login_failed_error"
+msgstr "Username/Password correct?"
+
+#: /home/eddie/Desktop/femto_public/admin/index.php:62
+msgid "login"
+msgstr "Login"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_post_delete.php:28
+#: /home/eddie/Desktop/femto_public/admin/adm_post_edit.php:29
+#: /home/eddie/Desktop/femto_public/admin/adm_post_new.php:31
+#: /home/eddie/Desktop/femto_public/admin/adm_post_update.php:29
+msgid "post"
+msgstr "Post"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_post_delete.php:55
+msgid "post_deleted"
+msgstr "Post deleted."
+
+#: /home/eddie/Desktop/femto_public/admin/adm_post_delete.php:57
+msgid "post_not_deleted"
+msgstr "Post NOT deleted."
+
+#: /home/eddie/Desktop/femto_public/admin/adm_post_edit.php:101
+msgid "edit_post"
+msgstr "Edit Post"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_post_edit.php:107
+#: /home/eddie/Desktop/femto_public/admin/adm_post_new.php:137
+msgid "posted"
+msgstr "posted"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_post_edit.php:108
+#: /home/eddie/Desktop/femto_public/admin/adm_post_edit.php:136
+#: /home/eddie/Desktop/femto_public/admin/adm_post_new.php:138
+#: /home/eddie/Desktop/femto_public/admin/adm_post_new.php:166
+msgid "hidden"
+msgstr "hidden"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_post_edit.php:109
+#: /home/eddie/Desktop/femto_public/admin/adm_post_new.php:139
+msgid "draft"
+msgstr "draft"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_post_edit.php:111
+#: /home/eddie/Desktop/femto_public/admin/adm_post_edit.php:112
+#: /home/eddie/Desktop/femto_public/admin/adm_post_new.php:141
+#: /home/eddie/Desktop/femto_public/admin/adm_post_new.php:142
+msgid "now_desc"
+msgstr "insert current date/time"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_post_edit.php:111
+#: /home/eddie/Desktop/femto_public/admin/adm_post_edit.php:112
+#: /home/eddie/Desktop/femto_public/admin/adm_post_new.php:141
+#: /home/eddie/Desktop/femto_public/admin/adm_post_new.php:142
+msgid "now"
+msgstr "now"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_post_edit.php:114
+#: /home/eddie/Desktop/femto_public/admin/adm_post_new.php:144
+msgid "field_urltitle"
+msgstr "URL Title"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_post_edit.php:114
+#: /home/eddie/Desktop/femto_public/admin/adm_post_new.php:144
+msgid "from_title_desc"
+msgstr "Transform title into URL-friendly format"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_post_edit.php:114
+#: /home/eddie/Desktop/femto_public/admin/adm_post_new.php:144
+msgid "from_title"
+msgstr "from title"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_post_edit.php:123
+#: /home/eddie/Desktop/femto_public/admin/adm_post_new.php:153
+msgid "field_authorid"
+msgstr "Author ID"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_post_edit.php:125
+#: /home/eddie/Desktop/femto_public/admin/adm_post_new.php:155
+msgid "none"
+msgstr "none"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_post_edit.php:133
+#: /home/eddie/Desktop/femto_public/admin/adm_post_new.php:163
+msgid "field_langreference"
+msgstr "Foreign Lang ID"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_post_edit.php:135
+#: /home/eddie/Desktop/femto_public/admin/adm_post_new.php:165
+msgid "visible"
+msgstr "visible"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_post_edit.php:137
+#: /home/eddie/Desktop/femto_public/admin/adm_post_new.php:167
+msgid "closed"
+msgstr "closed"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_post_edit.php:138
+#: /home/eddie/Desktop/femto_public/admin/adm_post_new.php:168
+msgid "field_comvisibility"
+msgstr "Status Comments"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_post_edit.php:139
+msgid "field_comcount"
+msgstr "# of Comments"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_post_edit.php:145
+#: /home/eddie/Desktop/femto_public/admin/adm_post_new.php:174
+msgid "preview"
+msgstr "preview"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_post_edit.php:148
+msgid "delete_post"
+msgstr "Delete Post"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_post_new.php:105
+msgid "post_inserted"
+msgstr "Post inserted"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_post_new.php:111
+msgid "post_inserted_view_here"
+msgstr "You can view it here."
+
+#: /home/eddie/Desktop/femto_public/admin/adm_post_new.php:116
+msgid "post_inserted_not_public"
+msgstr "... and as desired not publicly available."
+
+#: /home/eddie/Desktop/femto_public/admin/adm_post_new.php:121
+msgid "post_not_inserted"
+msgstr "Post NOT inserted"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_post_new.php:134
+msgid "do_not_change_autovalue"
+msgstr "Do not change! This is an auto-value."
+
+#: /home/eddie/Desktop/femto_public/admin/adm_author_rename.php:57
+msgid "rename_success"
+msgstr "Renamed successfully."
+
+#: /home/eddie/Desktop/femto_public/admin/adm_author_rename.php:59
+msgid "rename_failed"
+msgstr "Rename failed."
+
+#: /home/eddie/Desktop/femto_public/admin/adm_author_rename.php:72
+msgid "field_newname"
+msgstr "new name"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_update_feedsitemap.php:29
+msgid "feed_sitemap"
+msgstr "Feed/Sitemap.xml"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_update_feedsitemap.php:41
+msgid "create_feed"
+msgstr "Create Feed"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_update_feedsitemap.php:49
+#: /home/eddie/Desktop/femto_public/admin/adm_update_feedsitemap.php:65
+msgid "success"
+msgstr "Success."
+
+#: /home/eddie/Desktop/femto_public/admin/adm_update_feedsitemap.php:58
+msgid "create_sitemap"
+msgstr "Create Sitemap"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_update_feedsitemap.php:73
+msgid "nothing_to_do"
+msgstr "Nothing to do."
+
+#: /home/eddie/Desktop/femto_public/admin/adm_update_feedsitemap.php:88
+msgid "update_feedsitemap_howto"
+msgstr ""
+"Pick the number of posts for the feed (0 means no feed will be created) and "
+"its language.<br>\n"
+"    You can change the template of sitemap.xml in the file "
+"<code>sitemap_head.xml</code>."
+
+#: /home/eddie/Desktop/femto_public/admin/adm_update_feedsitemap.php:91
+msgid "num_feed_posts"
+msgstr "number of posts"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_update_feedsitemap.php:100
+msgid "language"
+msgstr "language"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_update_feedsitemap.php:102
+msgid "update_sitemap_true"
+msgstr "update sitemap.xml"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_update_feedsitemap.php:103
+msgid "update_sitemap_false"
+msgstr "do not update sitemap.xml"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_update_feedsitemap.php:106
+msgid "update"
+msgstr "update"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_post_update.php:81
+msgid "post_updated"
+msgstr "Post updated successfully."
+
+#: /home/eddie/Desktop/femto_public/admin/adm_post_update.php:86
+msgid "post_not_updated"
+msgstr "Post coult NOT be updated"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_author_pwreset.php:55
+msgid "pwreset_success"
+msgstr "Password reset successfully."
+
+#: /home/eddie/Desktop/femto_public/admin/adm_author_pwreset.php:56
+msgid "pwreset_pwhash"
+msgstr ""
+"The password was reset to: <code style=\"color:#ddd;background:#777;"
+"padding:3px;font-size:1.2em\">%password%</code><br>\n"
+"    Please inform the author and let him/her change it."
+
+#: /home/eddie/Desktop/femto_public/admin/adm_author_pwreset.php:58
+msgid "pwreset_failed"
+msgstr "Password was NOT reset."
+
+#: /home/eddie/Desktop/femto_public/admin/adm_logout.php:24
+msgid "logged_out"
+msgstr "Logged out"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_logout.php:25
+msgid "bye"
+msgstr "Bye."
+
+#: /home/eddie/Desktop/femto_public/admin/adm_author_new.php:81
+msgid "author_created"
+msgstr "Author added."
+
+#: /home/eddie/Desktop/femto_public/admin/adm_author_new.php:82
+msgid "author_created_pwhash"
+msgstr ""
+"The initial password was set to <code style=\"color:#ddd;background:#777;"
+"padding:3px;font-size:1.2em\">%password%</code><br>\n"
+"    Please refer it to the new author and advise him/her change it."
+
+#: /home/eddie/Desktop/femto_public/admin/adm_author_new.php:91
+msgid "mailed_to_admin"
+msgstr "This event was %not% mailed to the first administrator."
+
+#: /home/eddie/Desktop/femto_public/admin/adm_author_new.php:95
+msgid "not"
+msgstr "not"
+
+#: /home/eddie/Desktop/femto_public/admin/adm_author_new.php:101
+msgid "author_not_created"
+msgstr "Author NOT added."
+
+#: /home/eddie/Desktop/femto_public/admin/adm_author_new.php:110
+msgid "username_not_free"
+msgstr "Username not free."
+
+#~ msgid "result"
+#~ msgid_plural "results"
+#~ msgstr[0] "result"
+#~ msgstr[1] "results"
+
+#~ msgid "search_no_results"
+#~ msgstr "Nothing found for your search term."
+
+#~ msgid "search_results_header"
+#~ msgstr "Found results in following posts (newer first):"
+
+#~ msgid "search_submit"
+#~ msgstr "search"
+
+#~ msgid "usage"
+#~ msgstr "Usage"
+
+#~ msgid "file"
+#~ msgstr "file"
+
+#~ msgid "needed_packages"
+#~ msgstr "Needed Packages"
+
+#~ msgid "dl_avrdo"
+#~ msgstr ""
+#~ "A Script for all Atmel AVR programmers. It compiles C source files and "
+#~ "writes to the chip. It uses <code>avr-gcc</code>, <code>avr-objcopy</"
+#~ "code> and <code>avrdude</code>."
+
+#~ msgid "dl_fbwlan"
+#~ msgstr "Enable/Disable WiFi functionality on FritzBox routers."
+
+#~ msgid "source"
+#~ msgstr "source"
+
+#~ msgid "destination"
+#~ msgstr "destination"
+
+#~ msgid "qualitylevel"
+#~ msgstr "quality_level"
+
+#~ msgid "dl_ffmlame"
+#~ msgstr ""
+#~ "Sadly <em>Lame</em> is only able to process uncompressed PCM data. Thanks "
+#~ "to <code>ffmpeg</code> with its huge pool of supported formats we are "
+#~ "able to prepare a large set of formats, in order to enable <em>Lame</em> "
+#~ "to create first class MP3 files – even out of video sound tracks. This "
+#~ "script handles the piping."
+
+#~ msgid "dl_ffmogg"
+#~ msgstr "Like <code>ffm-lame</code> but for OGG Vorbis files."
+
+#~ msgid "dl_myip"
+#~ msgstr "Echos the current remote IP."
+
+#~ msgid "dl_mypngcrush"
+#~ msgstr ""
+#~ "Often I need the same settings for my Internet pictures which I process "
+#~ "with <code>pngcrush</code>. This script predefines them."
+
+#~ msgid "brightnesslevel"
+#~ msgstr "brightness_level"
+
+#~ msgid "dl_sethellg"
+#~ msgstr ""
+#~ "My Notebook Fn-Keys did not work for a while so I used this script to set "
+#~ "the brightness."
+
+#~ msgid "time"
+#~ msgstr "time"
+
+#~ msgid "message"
+#~ msgstr "message"
+
+#~ msgid "dl_xat"
+#~ msgstr ""
+#~ "An alarm timer that uses Zenity for output. See the syntax of <em>at</em> "
+#~ "for details, e.g. <code>now+5min</code> and append the message you want "
+#~ "to display."
+
+#~ msgid "dl_xnetstat"
+#~ msgstr ""
+#~ "This script prints the output of the network analyzing tool "
+#~ "<code>netstat</code> in <em>Zenity</em>’s nice grid view."
+
+#~ msgid "apps_dividefairly_description"
+#~ msgstr ""
+#~ "    <h4>Splitting your and your friends’ expenses is a piece of cake! – "
+#~ "See who owes whom how much!</h4>\n"
+#~ "    <p>Max paid the cinema tickets, Linda the tofu sausage. Alex and "
+#~ "Martin added the price for the train tickets to their 15 Euros they are "
+#~ "still waiting for.<br>\n"
+#~ "    While Alex is trying to divide 42.50 by 5, Linda not only knows the "
+#~ "overall and per head costs but also who has to pay back how much to whom."
+#~ "</p>\n"
+#~ "    <h4>Because Linda is clever. Linda has Divide Fairly installed.</h4>\n"
+#~ "    <p>Set the number of persons → set their expenses → see the result</"
+#~ "p>\n"
+#~ "    <p>Divide Fairly calculates the <strong>optimized payback</strong> "
+#~ "with the least kerfuffle.</p>\n"
+#~ "    <p>A must-have tool for complicated “But you have to substract "
+#~ "13.49!” kind of situations.</p>"
+
+#~ msgid "apps_dividefairly_playstore_link"
+#~ msgstr ""
+#~ "    <a href=\"https://play.google.com/store/apps/details?id=de."
+#~ "eduard_dopler.dividefairly\"><img alt=\"Get it on Google Play\" src="
+#~ "\"https://developer.android.com/images/brand/en_generic_rgb_wo_60.png\"></"
+#~ "a>"
+
+#~ msgid "sitemap_xml"
+#~ msgstr "sitemap.xml"
+
+#~ msgid "post_not_inserted_error"
+#~ msgstr ""
+#~ "There was an error. Review the format of your input and check if the "
+#~ "database prints something helpful."
+
+#~ msgid "author_not_created_error"
+#~ msgstr ""
+#~ "There was an error. Review the format of your input and check if the "
+#~ "database prints something helpful."
+
+#~ msgid "field_ip"
+#~ msgstr "IP"
+
+#~ msgid "doubleclick_here"
+#~ msgstr "(doubleclick here)"
+
+#~ msgid "back_to_post"
+#~ msgstr "Back to Post"
+
+#~ msgid "lang_clear"
+#~ msgstr "en"
+
+#~ msgid "other_lang_domain"
+#~ msgstr "en.eduard-dopler.de"
