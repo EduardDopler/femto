@@ -97,7 +97,7 @@ function printFooterAdm() {
 <?php
     }
 ?>
-    <p id="femto"><a href="<?= _('lang') ?>/femto/">femto blog system</a><br> by Eduard Dopler</p>
+    <p id="femto"><a href="https://eduard-dopler.de/en/femto/">femto blog system</a><br> by Eduard Dopler</p>
   </footer>
 
   <div style="display:none">
