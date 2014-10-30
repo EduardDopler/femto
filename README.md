@@ -17,6 +17,8 @@ femto is no overkill software. It tries to do one thing well, without bugging yo
 * clean code and
 * of course, Open Source and Free Software.
 
+### Install
+See the [INSTALL](https://github.com/EduardDopler/femto/blob/master/INSTALL) file. (There will be an installation wizard soon. Stay tuned.)
+
 ### More?
 You can find a short description on the author’s blog page: https://eduard-dopler.de/en/femto/
-
