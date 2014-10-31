@@ -20,5 +20,17 @@ femto is no overkill software. It tries to do one thing well, without bugging yo
 ### Install
 See the [INSTALL](https://github.com/EduardDopler/femto/blob/master/INSTALL) file. (There will be an installation wizard soon. Stay tuned.)
 
+##### Requirements
+* HTTP Server with URL rewriting
+   * Apache2 with mod_rewrite (.htaccess included), recommended: mod_expires, mod_deflate
+   * *or* nginx with http_rewrite_module (config files included), recommended: http_headers_module
+* PHP >= 5.3.7, recommended: 5.5.0
+   * with PDO
+   * with locale (Gettext) support
+* Database
+   * MySQL >= 5.0.2
+   * *or* PostgreSQL >= 9.0
+   * with support for Views, Triggers/Functions, recommended: Create User and Grant Privileges
+
 ### More?
 You can find a short description on the author’s blog page: https://eduard-dopler.de/en/femto/
