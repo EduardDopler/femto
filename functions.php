@@ -588,7 +588,7 @@ function printFlattr($post) {
         HOST, _('lang'), $post['postid'], $post['urltitle']);
     $title = str_replace(' ', '%20', $post['title']);
     $lang = _('lang_code');
-    echo '    <p class="flattr"><a href="https://flattr.com/submit/auto?userId=' . FLATTR_ID . '&amp;url=' . urlencode($url) . '&amp;title=' . $title . '&amp;description=Blog%20post&amp;language=' . $lang . '&amp;category=text" title="' . _('flattr_me') . '">flattr</a></p>' . "\n";
+    echo '    <p class="flattr"><a href="https://flattr.com/submit/auto?user_id=' . FLATTR_ID . '&amp;url=' . urlencode($url) . '&amp;title=' . $title . '&amp;description=Blog%20post&amp;language=' . $lang . '&amp;category=text" title="' . _('flattr_me') . '">flattr</a></p>' . "\n";
 }
 
 
