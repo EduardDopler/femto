@@ -193,7 +193,7 @@ function mailCommentToAdmin($db, $commentId) {
               . "*IP:* " . substr($ip, 0, 6) . "...\n"
               . "*Comment:* (ID: $commentId)\n$content\n\n\n";
         // add admin links
-        $adminUrl = HOST . '/admin/admComment_edit.php?action=%s&chkComment=' . $commentId;
+        $adminUrl = HOST . '/admin/adm_comment_edit.php?action=%s&chkComment=' . $commentId;
         $str .= sprintf("*Approve:* $adminUrl\n", "approve")
               . sprintf("*Edit:* $adminUrl\n", "edit")
               . sprintf("*Delete:* $adminUrl\n", "delete");
